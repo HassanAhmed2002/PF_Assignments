@@ -1,0 +1,3 @@
+int const *ptr not change value but can change variable
+int *const ptr change value but not variable
+int *const *ptr neither change value nor variable 
